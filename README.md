@@ -16,6 +16,10 @@
   <img align="middle" alt="Radim Musalek LinkedIn" width="48px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" hspace="30" />
 </a>
 
+<a href="https://assets.ctfassets.net/449mcwf87tn4/2IBmNFOW0vHFtT3RLp5asV/73e005315ac59a0c7fc920b175d6f650/Radim_Mu____lek_-_Integrify_CV_-_06.04.2021.pdf">
+  <img align="middle" alt="Radim Musalek Integrify" width="48px" src="https://drive.google.com/file/d/1phx30BNXxfyEboFqox42FK0Rb6D6Wlz1" hspace="30" />
+</a>
+
 <!--
 **RadimMusalek/RadimMusalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
