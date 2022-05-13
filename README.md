@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Hi, I'm <b>Radim</b>, currently a Machine learning trainee at <a href="https://integrify.io/">Integrify</a>.
+    Hi, I'm <b>Radim</b>, currently working on various consulting projects as a self-employed Data Scientist at Paalava Oy.
   </samp>
   <br><br>
 </p>
