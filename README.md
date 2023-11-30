@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Hi, I'm <b>Radim</b>, currently working on various consulting projects as a self-employed Data Scientist at Paalava Oy.
+    Hi, I'm <b>Radim</b>, currently working as a Data Analyst at Mediq Suomi Oy.
   </samp>
   <br><br>
 </p>
