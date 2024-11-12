@@ -7,7 +7,7 @@
 
 <p align="center">
   <samp>
-    My background is in finance but in the spring of 2019 I decided to transition into the world of <b>machine learning</b> and <b>data science</b>. In my repositories you can find a big part of that journey, for learning more about myself follow the links below.
+    My background is in finance but in the spring of 2019 I decided to transition into the world of <b>machine learning</b> and <b>data science</b> with focus on the energy & renewables industry. In my repositories you can find a big part of that journey, for learning more about myself follow the links below.
   </samp>
   <br><br>
 </p>
