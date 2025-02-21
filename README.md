@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Hi, my name is <b>Radim</b> and I'm currently working as a Data Analyst subcontractor for a medical equipment wholesaler Mediq Suomi Oy.
+    Hi, my name is <b>Radim</b> and I'm currently working as a Data Analyst subcontractor for the medical equipment wholesaler Mediq Suomi Oy.
   </samp>
   <br><br>
 </p>
