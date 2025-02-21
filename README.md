@@ -1,13 +1,13 @@
 <p align="center">
   <samp>
-    Hi, I'm <b>Radim</b>, currently working as a Data Analyst at Mediq Suomi Oy.
+    Hi, my name is <b>Radim</b> and I'm currently working as a Data Analyst subcontractor for a medical equipment wholesaler Mediq Suomi Oy.
   </samp>
   <br><br>
 </p>
 
 <p align="center">
   <samp>
-    My background is in finance but in the spring of 2019 I decided to transition into the world of <b>machine learning</b> and <b>data science</b> with focus on the energy & renewables industry. In my repositories you can find a big part of that journey, for learning more about myself follow the links below.
+    My background is in finance but in the spring of 2019 I decided to transition into the world of <b>data analytics</b> and <b>machine learning</b>, most recently with the focus on the energy & renewables industry. In my repositories you can find a big part of my programming journey, for learning more about myself follow the links below.
   </samp>
   <br><br>
 </p>
@@ -28,6 +28,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
