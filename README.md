@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    Hi, my name is <b>Radim</b> and I'm currently working as a Data Analyst.
+    Hi, my name is <b>Radim</b> and I'm currently working as a Data Analyst from Hannover, Germany.
   </samp>
   <br><br>
 </p>
