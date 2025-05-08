@@ -7,7 +7,8 @@
 
 <p align="center">
   <samp>
-    Always happy to discuss (and learn more) about business, finance, data & business analytics, machine learning, photovoltaics, ice hockey and wine.
+    Always happy to discuss (and learn more) about business, finance, data & business analytics,
+    machine learning, photovoltaics, ice hockey and wine.
   </samp>
   <br><br>
 </p>
