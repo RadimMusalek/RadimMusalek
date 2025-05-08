@@ -1,13 +1,13 @@
 <p align="center">
   <samp>
-    Hi, my name is <b>Radim</b> and I'm currently working as a Data Analyst subcontractor for the medical equipment wholesaler Mediq Suomi Oy.
+    Hi, my name is <b>Radim</b> and I'm currently working as a Data Analyst.
   </samp>
   <br><br>
 </p>
 
 <p align="center">
   <samp>
-    My background is in finance but in the spring of 2019 I decided to transition into the world of <b>data analytics</b> and <b>machine learning</b>, most recently with the focus on the energy & renewables industry. In my repositories you can find a big part of my programming journey, for learning more about myself follow the links below.
+    Always happy to discuss (and learn more) about business, finance, data & business analytics, machine learning, photovoltaics, ice hockey and wine.
   </samp>
   <br><br>
 </p>
